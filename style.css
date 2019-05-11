@@ -85,12 +85,12 @@ header ul li a.current{
 
 .intro-heading{
     text-align:center;
-    margin-top: 32%;
+    margin-top: 20%;
     
 }
 .intro-heading h4{
-    font-size:18px;
-    font-family: Orator Std;
+    font-size:30px;
+    font-family: sans-serif;
     text-transform: uppercase;
     color:#fff;
     animation-delay: 3s;
@@ -124,4 +124,60 @@ header ul li a.current{
     line-height: 30px;
     font-size: 14px;
     animation-delay: 2s;
+}
+.academics h3{
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    border-bottom: solid(255,255,255,0.2);
+    padding-bottom:8px;
+    margin-bottom:12px;
+     animation-delay: 2s
+    
+    
+    
+}
+.academics p{
+    color: #fff;
+    line-height: 30px;
+    font-size: 18px;
+    animation-delay: 2s
+    
+}
+.academics2 h3{
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    border-bottom: solid(255,255,255,0.2);
+    padding-bottom:8px;
+    margin-bottom:12px;
+    
+     animation-delay: 3s
+    
+    
+}
+.academics2 p{
+    color: #fff;
+    line-height: 30px;
+    font-size: 18px;
+     animation-delay: 3s
+    
+}
+.currented h3{
+    color: #fff;
+    font-size: 22px;
+    text-transform: uppercase;
+    border-bottom: solid(255,255,255,0.2);
+    padding-bottom:8px;
+    margin-bottom:12px;
+     animation-delay: 4s
+    
+    
+    
+}
+.currented p{
+    color: #fff;
+    line-height: 30px;
+    font-size: 18px;
+     animation-delay: 4s
 }
